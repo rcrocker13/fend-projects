@@ -1,0 +1,20 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+What new skills have you learned?
+I have never used the superscript or strikethrough tag before now, so I got to learn how to use those tags.
+
+What has been easy?
+This project was pretty easy all around. It might have taken me 20 minutes including going off to look up the tags and how they're used.
+
+What's been difficult?
+It hard to know what I don't know. For example I thought the "By" in "By Christopher Watkins" was lighter than the rest on the text, but I wasn't sure how to make that text lighter. It seemed like I needed some sort of header, but it was just a simple p tag.
+
+How have you used the problem solving strategies?
+I have used them to take my time and solve one bite sized problem at a time so a to avoid making mistakes and completing my work in total.
